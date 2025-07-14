@@ -5,7 +5,7 @@
 ![S&P 500 Dashboard](https://img.shields.io/badge/S%26P%20500-Dashboard-blue?style=for-the-badge&logo=chart.js)
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-5.4.8-646CFF?style=for-the-badge&logo=vite)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 **A professional, real-time stock market dashboard featuring S&P 500 companies with live data integration, interactive charts, and comprehensive market analytics.**
 
@@ -59,7 +59,7 @@
 ### Prerequisites
 
 - Node.js 16.0 or higher
-- npm or yarn package manager
+- npm  package manager
 
 ### Installation
 
@@ -165,22 +165,6 @@ src/
 
 ---
 
-## 📊 Performance Metrics
-
-<div align="center">
-
-| Metric | Score | Status |
-|--------|-------|--------|
-| **Performance** | 98/100 | 🟢 Excellent |
-| **Accessibility** | 95/100 | 🟢 Excellent |
-| **Best Practices** | 100/100 | 🟢 Perfect |
-| **SEO** | 92/100 | 🟢 Excellent |
-| **Bundle Size** | < 500KB | 🟢 Optimized |
-| **Load Time** | < 2s | 🟢 Fast |
-
-</div>
-
----
 
 ## 🚀 Deployment
 
@@ -299,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by Shrihari Pise(https://github.com/shrihari_18)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.sp500-dashboard)
 
