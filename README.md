@@ -9,8 +9,7 @@
 
 **A professional, real-time stock market dashboard featuring S&P 500 companies with live data integration, interactive charts, and comprehensive market analytics.**
 
-[🚀 Live Demo](https://candid-basbousa-eb06a9.netlify.app) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/yourusername/sp500-dashboard/issues) • [✨ Request Feature](https://github.com/yourusername/sp500-dashboard/issues)
-
+[🚀 Live Demo](https://candid-basbousa-eb06a9.netlify.app)
 </div>
 
 ---
@@ -115,13 +114,13 @@ POLYGON: {
 <div align="center">
 
 ### Desktop View
-![Desktop Dashboard](https://via.placeholder.com/800x500/1e40af/ffffff?text=Desktop+Dashboard+View)
+<img width="1919" height="1079" alt="Screenshot 2025-07-14 230312" src="https://github.com/user-attachments/assets/db1cdc5b-63df-46f9-8c93-5f36a9e80d8d" />
+
 
 ### Mobile View
-<img src="https://via.placeholder.com/300x600/1e40af/ffffff?text=Mobile+Dashboard" alt="Mobile Dashboard" width="300">
+![mobileview](https://github.com/user-attachments/assets/05c4079f-53b1-4ca5-8cfe-50f642ca4f05)
 
-### Market Summary
-![Market Summary](https://via.placeholder.com/600x300/059669/ffffff?text=Market+Summary+Cards)
+
 
 </div>
 
@@ -250,12 +249,6 @@ npm run build
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Alpha Vantage** for providing free stock market APIs
@@ -271,9 +264,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Need help?** We're here for you!
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/yourusername/sp500-dashboard/issues)
-[![Email](https://img.shields.io/badge/Email-Support-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-Community-purple?style=for-the-badge&logo=discord)](https://discord.gg/yourinvite)
+[![Email](https://img.shields.io/badge/Email-Support-blue?style=for-the-badge&logo=gmail)](mailto:piseshrihari@gmail.com)
+
 
 </div>
 
